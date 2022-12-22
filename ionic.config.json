@@ -1,0 +1,7 @@
+{
+  "name": "chavs-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
